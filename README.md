@@ -52,3 +52,6 @@ Ziel ist die Reduzierung manueller Dokumentation und die automatische Erfassung 
 
 - Hinweis:
 API-Keys und Credentials sind nicht im Repository enthalten und müssen lokal in n8n eingerichtet werden.
+
+
+![Workflow](docs/workflow.png)
