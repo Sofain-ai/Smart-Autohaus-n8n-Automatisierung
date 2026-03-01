@@ -38,7 +38,7 @@ Ziel ist die Reduzierung manueller Dokumentation und die automatische Erfassung 
 - Webhook als Trigger
 - Gmail-Integration für E-Mail-Versand
 - Google Sheets API für Datenspeicherung
-- Fehlerhandling mit Retry-Option
+
 
 
 
